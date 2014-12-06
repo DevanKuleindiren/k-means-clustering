@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 
 public class Visualise extends JFrame {
 	
-	private static int[][] data = new int[100][2];
+	private static int[][] data = new int[150][2];
 	
 	static Random rand = new Random();
 	

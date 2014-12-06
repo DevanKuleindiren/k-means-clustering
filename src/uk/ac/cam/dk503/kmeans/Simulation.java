@@ -4,7 +4,6 @@ public class Simulation {
 	
 	public void run() {
 		Visualise visual = new Visualise(500, 500);
-		visual.paint(visual.getGraphics());
 	}
 	
 	
